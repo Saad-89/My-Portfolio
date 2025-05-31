@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'core/theme/app_theme.dart';
 import 'presentation/screens/portfolio_screen.dart';
 
-// Global navigator key for scrolling
+// Global navigator key for scrolling ggg
 final GlobalKey<NavigatorState> navigatorKey = GlobalKey<NavigatorState>();
 
 void main() {
